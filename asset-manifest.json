@@ -91,12 +91,9 @@
   },
   {
     "source_name": "生成视频结果.mp4",
-    "file": "media/previews/cg-observation.mp4",
-    "bytes": 9820095,
-    "sha256": "d556240fbe97f06557ca352417247307100bdf07cd2f8c07d272df5d379e7d3c",
-    "source_sha256": "602c3cab7bbb4bc328a9fe8c4e46525efd6c6edbc99b3778a9f3684127a88f3e",
-    "source_bytes": 28533179,
-    "web_transcode": true
+    "file": "media/originals/cg-observation.mp4",
+    "bytes": 28533179,
+    "sha256": "602c3cab7bbb4bc328a9fe8c4e46525efd6c6edbc99b3778a9f3684127a88f3e"
   },
   {
     "source_name": "aizen-naruto-style-v1.png",

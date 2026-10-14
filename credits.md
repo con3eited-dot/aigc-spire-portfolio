@@ -10,7 +10,7 @@
 - 已生成的人设图位于 `media/characters/`，目前只有鸡煲与绿色史莱姆两张；没有为其他角色虚构已完成的人设图。
 - 白模动作视频用于约束实际生成任务中的动作路线、调度和节奏。
 - CG效果观察视频用于创作分析，不自动等同于生成模型实际上传的视频参考。
-- CG效果观察视频在网页中提供压缩副本，供观摩与下载；用户制作的七个视频文件另保留原文件。
+- CG效果观察视频在网页中播放压缩副本，原文件也可下载；用户制作的七个视频文件均另保留原文件。
 - 早期蓝染二维画风稿与其参考资料单独归档；官方设定图、动画剧照和漫画转载素材的出处见 `notes/aizen-sources.md`。参考素材中的原始角色、美术和影视作品权利归各自权利人所有。
 - 《杀戮尖塔》参考资料入口：[游戏百科](https://slaythespire.org/)、[故障机器人](https://slaythespire.org/wiki/characters/the-defect)、[冰淇淋遗物](https://slaythespire.org/wiki/relics/ice-cream)、[时光吞噬者](https://slaythespire.org/wiki/enemies/time-eater)。
 

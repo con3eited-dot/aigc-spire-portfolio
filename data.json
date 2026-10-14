@@ -173,7 +173,7 @@
       "title": "CG效果观察视频",
       "description": "用于分析摄影和视觉效果；不是提示词中实际上传的白模。",
       "src": "media/previews/cg-observation.mp4",
-      "original": "media/previews/cg-observation.mp4",
+      "original": "media/originals/cg-observation.mp4",
       "poster": "media/posters/cg-observation.jpg",
       "credit": "已有参考视频；此处按参考用途展示"
     }
