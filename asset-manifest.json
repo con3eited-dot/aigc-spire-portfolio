@@ -1,0 +1,215 @@
+[
+  {
+    "source_name": "开场.mp4",
+    "file": "media/originals/opening.mp4",
+    "bytes": 7916933,
+    "sha256": "217ec235ffa47cf29b1d8ef864328a1b8897886a931fae23f17dc667d56801bb"
+  },
+  {
+    "source_name": "鸡煲拿遗物2.mp4",
+    "file": "media/originals/chase-v2.mp4",
+    "bytes": 24225459,
+    "sha256": "13d9d0069698e6c5db893713190caa14630821a34125bce304186e379eca75ce"
+  },
+  {
+    "source_name": "收尾.mp4",
+    "file": "media/originals/ending.mp4",
+    "bytes": 21778342,
+    "sha256": "05b233d5a2f927a1850b090a1bd15a14c1f4cf220d608ca5007737be1fdcaec1"
+  },
+  {
+    "source_name": "鸡煲拿遗物.mp4",
+    "file": "media/originals/chase-v1.mp4",
+    "bytes": 21672347,
+    "sha256": "5360a3f5020b6f1f1d0af4b45005a08f6a95750b10006737d0ea33ffa4685777"
+  },
+  {
+    "source_name": "鸡煲拿遗物3.mp4",
+    "file": "media/originals/chase-v3.mp4",
+    "bytes": 21481854,
+    "sha256": "e5aeb098f909511d4e883b39b69f52300f3a38fd415506931332cff07e2d80d2"
+  },
+  {
+    "source_name": "鸡煲挨揍.mp4",
+    "file": "media/originals/robot-hit.mp4",
+    "bytes": 2422498,
+    "sha256": "e89bac3b13d6caca30f957f855b405ad5dc6f2361dc90cee5219dd2ae3c66ba2"
+  },
+  {
+    "source_name": "片名：《你先别打，我快启动了》 .mp4",
+    "file": "media/originals/early-short.mp4",
+    "bytes": 10644438,
+    "sha256": "d3126c35067cd50a98c2778b72742c1dceda7951104db122e5ffa657835759c4"
+  },
+  {
+    "source_name": "鸡煲.webp",
+    "file": "media/references/defect.webp",
+    "bytes": 9094,
+    "sha256": "7680ccf3448e2247aa6a0d166202f1381a0425e3192d655b2157a8b332766cc1"
+  },
+  {
+    "source_name": "咔咔.webp",
+    "file": "media/references/kaka.webp",
+    "bytes": 16134,
+    "sha256": "99f3199c620d3a64c6a4b108543476e61e3e7ab7c385353424af88c6a49c1e63"
+  },
+  {
+    "source_name": "冰淇淋.webp",
+    "file": "media/references/ice-cream.webp",
+    "bytes": 2866,
+    "sha256": "698f1faad76f9945a4e092e08d766f3687ee7e7a9a777acad2adc7b285253664"
+  },
+  {
+    "source_name": "时光老头.webp",
+    "file": "media/references/time-eater.webp",
+    "bytes": 11208,
+    "sha256": "ea77ce0daaf83de9560b14e286dbc5b4f3125ec6dab4fa706acbfb967a9f62f1"
+  },
+  {
+    "source_name": "小红.webp",
+    "file": "media/references/gremlin-nob.webp",
+    "bytes": 12480,
+    "sha256": "cf4a25dab038359b13f26d633582d7b23149c9556533e17ae1caa670ffb44ecf"
+  },
+  {
+    "source_name": "鸡煲.jpg",
+    "file": "media/characters/defect-sheet.jpg",
+    "bytes": 532872,
+    "sha256": "346b26e54955b544d0a831e626a9fad4fc5b07b87378519e9a5c0fc135c11cef"
+  },
+  {
+    "source_name": "绿色史莱姆.jpg",
+    "file": "media/characters/slime-sheet.jpg",
+    "bytes": 167491,
+    "sha256": "ecabd723fe6caf403579854652b9c6ffa0925879d2190de9c8cfb208a4f669ef"
+  },
+  {
+    "source_name": "上传参考视频+编写文本指令.mp4",
+    "file": "media/originals/whitebox.mp4",
+    "bytes": 2137174,
+    "sha256": "351045134e24b16b60d17cb05deda4bec05c2f37386996e87bdd7f40f254f76f"
+  },
+  {
+    "source_name": "生成视频结果.mp4",
+    "file": "media/previews/cg-observation.mp4",
+    "bytes": 9820095,
+    "sha256": "d556240fbe97f06557ca352417247307100bdf07cd2f8c07d272df5d379e7d3c",
+    "source_sha256": "602c3cab7bbb4bc328a9fe8c4e46525efd6c6edbc99b3778a9f3684127a88f3e",
+    "source_bytes": 28533179,
+    "web_transcode": true
+  },
+  {
+    "source_name": "aizen-naruto-style-v1.png",
+    "file": "media/style-tests/aizen-v1.png",
+    "bytes": 2388064,
+    "sha256": "5ab4961075c5b3ad728e9ba2b4a576a752e5108570ef698c31257c3e8c91938d"
+  },
+  {
+    "source_name": "aizen-naruto-style-v2.png",
+    "file": "media/style-tests/aizen-v2.png",
+    "bytes": 2253173,
+    "sha256": "56d23fbab9fc323647cbd7bf443cfe2ef472ef625a940763dc66e5a6fb601879"
+  },
+  {
+    "source_name": "manga-aizen-chair-repost.jpg",
+    "file": "media/bleach/manga-aizen-chair-repost.jpg",
+    "bytes": 123931,
+    "sha256": "8962b62ad95ad2069ceab19709a4c58516c07ab668f562de106a7c0b67618fd8"
+  },
+  {
+    "source_name": "official-aizen-design.png",
+    "file": "media/bleach/official-aizen-design.png",
+    "bytes": 90540,
+    "sha256": "6b94f0c44f78ccddc3361506f5db0e0d1ee3c67023e0d99f6bbb9100f626bb5f"
+  },
+  {
+    "source_name": "official-aizen-face.png",
+    "file": "media/bleach/official-aizen-face.png",
+    "bytes": 39844,
+    "sha256": "f0a11d69e2b6ac87c123c2812e04029f30a38244d946bf3ab4a1ed55a7a7ce12"
+  },
+  {
+    "source_name": "official-episode31-still-01.jpg",
+    "file": "media/bleach/official-episode31-still-01.jpg",
+    "bytes": 517648,
+    "sha256": "6f29cf87e0b115160c2883722565d6735fdb2d8b82da9cfe8ab75fdc8f7fa20d"
+  },
+  {
+    "source_name": "official-episode31-still-02.jpg",
+    "file": "media/bleach/official-episode31-still-02.jpg",
+    "bytes": 455960,
+    "sha256": "b8bd755d727c49aea7e971bc5898ef9e6cb82d7afadbad8966e9fc55bb074f63"
+  },
+  {
+    "source_name": "official-episode31-still-03.jpg",
+    "file": "media/bleach/official-episode31-still-03.jpg",
+    "bytes": 521874,
+    "sha256": "1852795b058d6f22615547ddc59eb37e0d365566c21c70aa217515ed83f3801b"
+  },
+  {
+    "source_name": "official-episode31-still-05.jpg",
+    "file": "media/bleach/official-episode31-still-05.jpg",
+    "bytes": 588278,
+    "sha256": "41820195f158970266bf7e0ce1e7d688bc635114e33fdfea2e38d42596895d6a"
+  },
+  {
+    "source_name": "视频提示词_开场5秒_塔外苏醒与黄色闪电球.txt",
+    "file": "prompts/opening.txt",
+    "bytes": 4661,
+    "sha256": "d3047b32c3cf4748b21a51dfee9abb4e697c7508753ca589db5a6b2e7d83276c"
+  },
+  {
+    "source_name": "视频提示词_白模参考_冰淇淋特写_场景强化版.txt",
+    "file": "prompts/chase.txt",
+    "bytes": 11591,
+    "sha256": "d0b5625da38161e14341beb8689b443bf862a27dbf30ba8693764bdc7e103445"
+  },
+  {
+    "source_name": "视频提示词_续集15秒_崖底与时光老头.txt",
+    "file": "prompts/ending.txt",
+    "bytes": 9338,
+    "sha256": "d623a3a9795596e9086fef98768b9e9e00e094d575cbaa1affb69b2d9fa892be"
+  },
+  {
+    "source_name": "视频提示词_反解结构主题替换_同向持握版.txt",
+    "file": "prompts/archive-03.txt",
+    "bytes": 9996,
+    "sha256": "e49ef574e2369ca605e07cf703eebe5aa3678a0f699f8d7a2fd86b21628a93ff"
+  },
+  {
+    "source_name": "视频提示词_同向飞行_冰淇淋特写版.txt",
+    "file": "prompts/archive-04.txt",
+    "bytes": 9806,
+    "sha256": "927cc0db845ade1db55c636c74a245ef60f9d237d1335858ee24f23f19fe801e"
+  },
+  {
+    "source_name": "视频提示词_白模参考_同向飞行_冰淇淋特写版.txt",
+    "file": "prompts/archive-05.txt",
+    "bytes": 10235,
+    "sha256": "782cc66385bf44f0605a3fbe308340a311cd4e3c49b20b1809ed51d56747f05c"
+  },
+  {
+    "source_name": "视频提示词_续集15秒_崖底与时间吞噬者.txt",
+    "file": "prompts/archive-06.txt",
+    "bytes": 9310,
+    "sha256": "81d3e8fae634a57cfccaad9d569ed8e0ac43beed1acc5148bfd67fec1cecd97f"
+  },
+  {
+    "source_name": "视频提示词_鸡煲与双咔咔_4000字内.txt",
+    "file": "prompts/archive-07.txt",
+    "bytes": 11591,
+    "sha256": "02ed9e223c9b9ff48833bed6da103ce8d0153a78e66561b1a92d7c5bbda72cdb"
+  },
+  {
+    "source_name": "视频提示词_鸡煲双咔咔_尖塔解封版.txt",
+    "file": "prompts/archive-08.txt",
+    "bytes": 11183,
+    "sha256": "5be9b82b362d75957c39236909b60946fdc932013cdd3ec9f28a75017763bf1e"
+  },
+  {
+    "source_name": "视频提示词_鸡煲双咔咔_构图攻击精修版.txt",
+    "file": "prompts/archive-09.txt",
+    "bytes": 11809,
+    "sha256": "610e1261d509b7d2125f6882b0f6915d501dd4835ebe8bbb79cc75de9dcf2a35"
+  }
+]

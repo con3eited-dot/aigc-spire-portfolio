@@ -1,0 +1,320 @@
+{
+  "creator": "con3eited-dot",
+  "repo": "https://github.com/con3eited-dot/aigc-spire-portfolio",
+  "chapters": [
+    {
+      "id": "opening",
+      "title": "01 / 塔外苏醒",
+      "description": "醒来，望向尖塔，黄色闪电球在身后出现。",
+      "duration": 5.09,
+      "src": "media/previews/opening.mp4",
+      "original": "media/originals/opening.mp4",
+      "poster": "media/posters/opening.jpg"
+    },
+    {
+      "id": "chase-v2",
+      "title": "02 / 一支冰淇淋的代价",
+      "description": "拿走遗物，惊醒两只守卫，追逐一路失控。",
+      "duration": 15.1,
+      "src": "media/previews/chase-v2.mp4",
+      "original": "media/originals/chase-v2.mp4",
+      "poster": "media/posters/chase-v2.jpg"
+    },
+    {
+      "id": "ending",
+      "title": "03 / 开心早了",
+      "description": "崖底苏醒，得意踢怪，时光老头从身后现身。",
+      "duration": 15.1,
+      "src": "media/previews/ending.mp4",
+      "original": "media/originals/ending.mp4",
+      "poster": "media/posters/ending.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "id": "opening",
+      "title": "01 / 塔外苏醒",
+      "description": "醒来，望向尖塔，黄色闪电球在身后出现。",
+      "duration": 5.09,
+      "src": "media/previews/opening.mp4",
+      "original": "media/originals/opening.mp4",
+      "poster": "media/posters/opening.jpg"
+    },
+    {
+      "id": "chase-v2",
+      "title": "02 / 一支冰淇淋的代价",
+      "description": "拿走遗物，惊醒两只守卫，追逐一路失控。",
+      "duration": 15.1,
+      "src": "media/previews/chase-v2.mp4",
+      "original": "media/originals/chase-v2.mp4",
+      "poster": "media/posters/chase-v2.jpg"
+    },
+    {
+      "id": "ending",
+      "title": "03 / 开心早了",
+      "description": "崖底苏醒，得意踢怪，时光老头从身后现身。",
+      "duration": 15.1,
+      "src": "media/previews/ending.mp4",
+      "original": "media/originals/ending.mp4",
+      "poster": "media/posters/ending.jpg"
+    },
+    {
+      "id": "chase-v1",
+      "title": "拿遗物 · 版本一",
+      "description": "早期生成版本，用于观察动作与角色调度。",
+      "duration": 15.1,
+      "src": "media/originals/chase-v1.mp4",
+      "original": "media/originals/chase-v1.mp4",
+      "poster": "media/posters/chase-v1.jpg"
+    },
+    {
+      "id": "chase-v3",
+      "title": "拿遗物 · 版本三",
+      "description": "保留的另一版生成结果；主展示仍采用版本二。",
+      "duration": 15.1,
+      "src": "media/originals/chase-v3.mp4",
+      "original": "media/originals/chase-v3.mp4",
+      "poster": "media/posters/chase-v3.jpg"
+    },
+    {
+      "id": "robot-hit",
+      "title": "鸡煲挨揍",
+      "description": "独立片段练习。",
+      "duration": null,
+      "src": "media/originals/robot-hit.mp4",
+      "original": "media/originals/robot-hit.mp4",
+      "poster": "media/posters/robot-hit.jpg"
+    },
+    {
+      "id": "early-short",
+      "title": "你先别打，我快启动了",
+      "description": "早期短片练习。",
+      "duration": null,
+      "src": "media/originals/early-short.mp4",
+      "original": "media/originals/early-short.mp4",
+      "poster": "media/posters/early-short.jpg"
+    }
+  ],
+  "sheets": [
+    {
+      "id": "defect-sheet",
+      "title": "鸡煲",
+      "description": "角色造型资产 · 9:16竖版",
+      "src": "media/characters/defect-sheet.jpg",
+      "original": "media/characters/defect-sheet.jpg"
+    },
+    {
+      "id": "slime-sheet",
+      "title": "绿色史莱姆",
+      "description": "早期角色探索 · 9:16竖版",
+      "src": "media/characters/slime-sheet.jpg",
+      "original": "media/characters/slime-sheet.jpg"
+    }
+  ],
+  "references": [
+    {
+      "id": "defect",
+      "title": "鸡煲",
+      "tag": "角色身份参考",
+      "description": "旧金属头壳、青蓝圆形部件与蓝披布。",
+      "src": "media/references/defect.webp",
+      "original": "media/references/defect.webp",
+      "credit": "游戏美术参考，非本项目原创图像"
+    },
+    {
+      "id": "kaka",
+      "title": "咔咔",
+      "tag": "追逐角色参考",
+      "description": "蓝色羽片、骨白长面与弯曲的攻击肢体。",
+      "src": "media/references/kaka.webp",
+      "original": "media/references/kaka.webp",
+      "credit": "游戏美术参考，非本项目原创图像"
+    },
+    {
+      "id": "ice-cream",
+      "title": "冰淇淋",
+      "tag": "道具参考",
+      "description": "粉色、巧克力棕、浅奶油色三球与浅黄色甜筒。",
+      "src": "media/references/ice-cream.webp",
+      "original": "media/references/ice-cream.webp",
+      "credit": "游戏美术参考，非本项目原创图像"
+    },
+    {
+      "id": "time-eater",
+      "title": "时光老头",
+      "tag": "收尾角色参考",
+      "description": "骨绿色软体轮廓、紫红袍体与悬垂怀表。",
+      "src": "media/references/time-eater.webp",
+      "original": "media/references/time-eater.webp",
+      "credit": "游戏美术参考，非本项目原创图像"
+    },
+    {
+      "id": "gremlin-nob",
+      "title": "小红",
+      "tag": "早期选角参考",
+      "description": "早期方案中的角色，未作为当前双追兵使用。",
+      "src": "media/references/gremlin-nob.webp",
+      "original": "media/references/gremlin-nob.webp",
+      "credit": "游戏美术参考，非本项目原创图像"
+    }
+  ],
+  "materials": [
+    {
+      "id": "whitebox",
+      "title": "白模动作参考",
+      "description": "生成提示词中的动作、路线与节奏锚点。",
+      "src": "media/originals/whitebox.mp4",
+      "original": "media/originals/whitebox.mp4",
+      "poster": "media/posters/whitebox.jpg",
+      "credit": "已有参考视频；此处按参考用途展示"
+    },
+    {
+      "id": "cg-observation",
+      "title": "CG效果观察视频",
+      "description": "用于分析摄影和视觉效果；不是提示词中实际上传的白模。",
+      "src": "media/previews/cg-observation.mp4",
+      "original": "media/previews/cg-observation.mp4",
+      "poster": "media/posters/cg-observation.jpg",
+      "credit": "已有参考视频；此处按参考用途展示"
+    }
+  ],
+  "styleTests": [
+    {
+      "title": "二维画风测试 V1",
+      "src": "media/style-tests/aizen-v1.png",
+      "original": "media/style-tests/aizen-v1.png",
+      "description": "蓝染拘束椅场景的早期静态画风探索，与尖塔主项目分开呈现。"
+    },
+    {
+      "title": "二维画风测试 V2",
+      "src": "media/style-tests/aizen-v2.png",
+      "original": "media/style-tests/aizen-v2.png",
+      "description": "蓝染拘束椅场景的早期静态画风探索，与尖塔主项目分开呈现。"
+    }
+  ],
+  "prompts": [
+    {
+      "id": "opening",
+      "title": "开场 · 塔外苏醒",
+      "tag": "5秒 · 黄色闪电球",
+      "file": "prompts/opening.txt",
+      "chars": 1577,
+      "current": true,
+      "source_name": "视频提示词_开场5秒_塔外苏醒与黄色闪电球.txt"
+    },
+    {
+      "id": "chase",
+      "title": "追逐 · 解封与冰淇淋",
+      "tag": "15秒 · 白模动作锚定",
+      "file": "prompts/chase.txt",
+      "chars": 3899,
+      "current": true,
+      "source_name": "视频提示词_白模参考_冰淇淋特写_场景强化版.txt"
+    },
+    {
+      "id": "ending",
+      "title": "收尾 · 崖底与时光老头",
+      "tag": "15秒 · 8x3意图揭示",
+      "file": "prompts/ending.txt",
+      "chars": 3150,
+      "current": true,
+      "source_name": "视频提示词_续集15秒_崖底与时光老头.txt"
+    },
+    {
+      "id": "archive-03",
+      "title": "反解结构主题替换_同向持握版",
+      "tag": "迭代工作稿",
+      "file": "prompts/archive-03.txt",
+      "chars": 3366,
+      "current": false,
+      "source_name": "视频提示词_反解结构主题替换_同向持握版.txt"
+    },
+    {
+      "id": "archive-04",
+      "title": "同向飞行_冰淇淋特写版",
+      "tag": "迭代工作稿",
+      "file": "prompts/archive-04.txt",
+      "chars": 3304,
+      "current": false,
+      "source_name": "视频提示词_同向飞行_冰淇淋特写版.txt"
+    },
+    {
+      "id": "archive-05",
+      "title": "白模参考_同向飞行_冰淇淋特写版",
+      "tag": "迭代工作稿",
+      "file": "prompts/archive-05.txt",
+      "chars": 3447,
+      "current": false,
+      "source_name": "视频提示词_白模参考_同向飞行_冰淇淋特写版.txt"
+    },
+    {
+      "id": "archive-06",
+      "title": "续集15秒_崖底与时间吞噬者",
+      "tag": "迭代工作稿",
+      "file": "prompts/archive-06.txt",
+      "chars": 3234,
+      "current": false,
+      "source_name": "视频提示词_续集15秒_崖底与时间吞噬者.txt"
+    },
+    {
+      "id": "archive-07",
+      "title": "鸡煲与双咔咔_4000字内",
+      "tag": "迭代工作稿",
+      "file": "prompts/archive-07.txt",
+      "chars": 3903,
+      "current": false,
+      "source_name": "视频提示词_鸡煲与双咔咔_4000字内.txt"
+    },
+    {
+      "id": "archive-08",
+      "title": "鸡煲双咔咔_尖塔解封版",
+      "tag": "迭代工作稿",
+      "file": "prompts/archive-08.txt",
+      "chars": 3753,
+      "current": false,
+      "source_name": "视频提示词_鸡煲双咔咔_尖塔解封版.txt"
+    },
+    {
+      "id": "archive-09",
+      "title": "鸡煲双咔咔_构图攻击精修版",
+      "tag": "迭代工作稿",
+      "file": "prompts/archive-09.txt",
+      "chars": 3975,
+      "current": false,
+      "source_name": "视频提示词_鸡煲双咔咔_构图攻击精修版.txt"
+    }
+  ],
+  "skills": [
+    {
+      "id": "reference-character-sheet",
+      "title": "参考素材 → 人设图",
+      "number": "01",
+      "description": "提取身份锚点、固定配色与比例，组织四宫格三视图和道具设定。",
+      "file": "skills/reference-character-sheet/SKILL.md"
+    },
+    {
+      "id": "video-director-prompt",
+      "title": "故事 → 导演分镜提示词",
+      "number": "02",
+      "description": "把空间、动作、运镜、色调与声音写进一份可直接使用的受控文本。",
+      "file": "skills/video-director-prompt/SKILL.md"
+    },
+    {
+      "id": "short-film-continuity",
+      "title": "分段成片 → 连续叙事",
+      "number": "03",
+      "description": "检查角色与方向连续性，用动作、光线和声音设计相邻片段的衔接。",
+      "file": "skills/short-film-continuity/SKILL.md"
+    }
+  ],
+  "downloads": [
+    {
+      "title": "下载全部提示词",
+      "download": "downloads/prompt-library.zip"
+    },
+    {
+      "title": "下载三个 Skills",
+      "download": "downloads/creative-skills.zip"
+    }
+  ]
+}
