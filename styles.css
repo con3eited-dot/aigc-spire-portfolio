@@ -8,3 +8,4 @@
 .chapter-button{width:100%}.chapter-download{display:inline-block;padding:8px 0;min-height:32px;color:var(--gold);font-size:10px}.chapter-download:hover{text-decoration:underline}
 
 .player-actions{display:flex;gap:12px;flex-wrap:wrap}.player-actions .button{padding-inline:18px;font-size:12px}#my-role{scroll-margin-top:110px}
+.creator-intro{grid-column:1/-1;border-bottom:1px solid var(--line);padding-bottom:24px}.creator-intro .index-label{margin-bottom:8px}.creator-intro p{max-width:830px}
