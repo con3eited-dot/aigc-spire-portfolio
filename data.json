@@ -97,18 +97,32 @@
   ],
   "sheets": [
     {
-      "id": "defect-sheet",
+      "id": "defect-sheet-v2",
       "title": "鸡煲",
-      "description": "角色造型资产 · 9:16竖版",
-      "src": "media/characters/defect-sheet.jpg",
-      "original": "media/characters/defect-sheet.jpg"
+      "description": "新版人设图 · 四宫格 · 9:16竖版",
+      "src": "media/characters/defect-sheet-v2.jpg",
+      "original": "media/characters/defect-sheet-v2.png"
     },
     {
-      "id": "slime-sheet",
-      "title": "绿色史莱姆",
-      "description": "早期角色探索 · 9:16竖版",
-      "src": "media/characters/slime-sheet.jpg",
-      "original": "media/characters/slime-sheet.jpg"
+      "id": "kaka-sheet-v2",
+      "title": "咔咔",
+      "description": "新版人设图 · 四宫格 · 9:16竖版",
+      "src": "media/characters/kaka-sheet-v2.jpg",
+      "original": "media/characters/kaka-sheet-v2.png"
+    },
+    {
+      "id": "time-eater-sheet-v2",
+      "title": "时光老头",
+      "description": "新版人设图 · 四宫格 · 9:16竖版",
+      "src": "media/characters/time-eater-sheet-v2.jpg",
+      "original": "media/characters/time-eater-sheet-v2.png"
+    },
+    {
+      "id": "ice-cream-sheet-v2",
+      "title": "冰淇淋",
+      "description": "新版道具设定图 · 四宫格 · 9:16竖版",
+      "src": "media/characters/ice-cream-sheet-v2.jpg",
+      "original": "media/characters/ice-cream-sheet-v2.png"
     }
   ],
   "references": [
@@ -305,6 +319,13 @@
       "number": "03",
       "description": "检查角色与方向连续性，用动作、光线和声音设计相邻片段的衔接。",
       "file": "skills/short-film-continuity/SKILL.md"
+    },
+    {
+      "id": "editing-ai-clips",
+      "title": "素材审片 → 视频剪辑",
+      "number": "04",
+      "description": "按实际画面确定切点、统一音画时长和响度，输出MP4，并区分草稿检查与剪映实测。",
+      "file": "skills/editing-ai-clips/SKILL.md"
     }
   ],
   "downloads": [
@@ -313,8 +334,24 @@
       "download": "downloads/prompt-library.zip"
     },
     {
-      "title": "下载三个 Skills",
+      "title": "下载四个 Skills",
       "download": "downloads/creative-skills.zip"
+    }
+  ],
+  "initialSheets": [
+    {
+      "id": "defect-sheet",
+      "title": "鸡煲",
+      "description": "初版人设图 · 早期造型探索 · 9:16竖版",
+      "src": "media/characters/defect-sheet.jpg",
+      "original": "media/characters/defect-sheet.jpg"
+    },
+    {
+      "id": "slime-sheet",
+      "title": "绿色史莱姆",
+      "description": "初版人设图 · 早期造型探索 · 9:16竖版",
+      "src": "media/characters/slime-sheet.jpg",
+      "original": "media/characters/slime-sheet.jpg"
     }
   ]
 }

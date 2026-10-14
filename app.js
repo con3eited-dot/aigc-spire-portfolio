@@ -132,6 +132,7 @@ async function initialize() {
     else continuous = false;
   });
   renderImages(library.sheets, '#sheet-gallery', 'sheet');
+  renderImages(library.initialSheets, '#initial-sheet-gallery', 'sheet');
   renderImages(library.references, '#reference-gallery', 'reference');
   renderImages(library.styleTests, '#style-gallery', 'style');
   for (const item of library.materials) {

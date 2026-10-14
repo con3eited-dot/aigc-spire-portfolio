@@ -208,5 +208,36 @@
     "file": "prompts/archive-09.txt",
     "bytes": 11809,
     "sha256": "610e1261d509b7d2125f6882b0f6915d501dd4835ebe8bbb79cc75de9dcf2a35"
+  },
+  {
+    "source_name": "鸡煲.png",
+    "file": "media/characters/defect-sheet-v2.png",
+    "bytes": 4473217,
+    "sha256": "7393699eeb502535d686b65a9479ed6b0ffb00e35b97682194f6ad6b64fa60fd"
+  },
+  {
+    "source_name": "咔咔.png",
+    "file": "media/characters/kaka-sheet-v2.png",
+    "bytes": 4125153,
+    "sha256": "c53ed23468abbc7a460cda5f4999ef513a768280161b4d264c73c4da5d36bb35"
+  },
+  {
+    "source_name": "时光老头.png",
+    "file": "media/characters/time-eater-sheet-v2.png",
+    "bytes": 4572402,
+    "sha256": "066eb909bd1c8633ae6e1efabb0896d973cb170d9b77a2e15d54f4680240d145"
+  },
+  {
+    "source_name": "冰淇淋.png",
+    "file": "media/characters/ice-cream-sheet-v2.png",
+    "bytes": 3323988,
+    "sha256": "8ab7ee56baaa1cd5a1bf0e02f1cad23fb184f7bbd0f4dfc4c69f679a13b3a223"
+  },
+  {
+    "source_name": "开场 + 鸡煲拿遗物2 + 收尾（剪辑预览）",
+    "file": "media/previews/film-v1.mp4",
+    "bytes": 20385890,
+    "sha256": "c43bf10babe5da4815e4a19b62acec1777b8947403044711f64834a767191b65",
+    "derived": true
   }
 ]
