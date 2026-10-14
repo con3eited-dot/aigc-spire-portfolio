@@ -201,20 +201,6 @@
       "credit": "已有参考视频；此处按参考用途展示"
     }
   ],
-  "styleTests": [
-    {
-      "title": "二维画风测试 V1",
-      "src": "media/style-tests/aizen-v1.png",
-      "original": "media/style-tests/aizen-v1.png",
-      "description": "蓝染拘束椅场景的早期静态画风探索，与尖塔主项目分开呈现。"
-    },
-    {
-      "title": "二维画风测试 V2",
-      "src": "media/style-tests/aizen-v2.png",
-      "original": "media/style-tests/aizen-v2.png",
-      "description": "蓝染拘束椅场景的早期静态画风探索，与尖塔主项目分开呈现。"
-    }
-  ],
   "prompts": [
     {
       "id": "opening",

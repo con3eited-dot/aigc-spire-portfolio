@@ -151,7 +151,6 @@ async function initialize() {
   renderImages(library.sheets, '#sheet-gallery', 'sheet');
   renderImages(library.initialSheets, '#initial-sheet-gallery', 'sheet');
   renderImages(library.references, '#reference-gallery', 'reference');
-  renderImages(library.styleTests, '#style-gallery', 'style');
   for (const item of library.materials) {
     const article = document.createElement('article');
     article.className = 'material-card';
