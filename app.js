@@ -55,6 +55,21 @@ function chooseChapter(index, play = false) {
   $('#chapter-title').textContent = item.title.split(' / ')[1] || item.title;
   $('#chapter-description').textContent = item.description;
   document.querySelectorAll('.chapter-button').forEach((button, i) => button.setAttribute('aria-pressed', String(index === i)));
+  $('#show-final').setAttribute('aria-pressed', 'false');
+  if (play) player.play().catch(() => toast('请点击播放器的播放按钮。'));
+}
+function chooseFinal(play = false) {
+  continuous = false;
+  const item = library.finalFilm;
+  const player = $('#film-player');
+  player.src = item.src;
+  player.poster = item.poster;
+  player.load();
+  $('#chapter-kicker').textContent = 'FINAL FILM · 作者剪辑';
+  $('#chapter-title').textContent = item.title;
+  $('#chapter-description').textContent = item.description;
+  document.querySelectorAll('.chapter-button').forEach(button => button.setAttribute('aria-pressed', 'false'));
+  $('#show-final').setAttribute('aria-pressed', 'true');
   if (play) player.play().catch(() => toast('请点击播放器的播放按钮。'));
 }
 async function choosePrompt(item, button) {
@@ -127,6 +142,8 @@ async function initialize() {
     $('#chapter-list').append(entry);
   });
   $('#play-all').addEventListener('click', () => { continuous = true; chooseChapter(0, true); });
+  $('#show-final').addEventListener('click', () => chooseFinal(true));
+  chooseFinal();
   $('#film-player').addEventListener('ended', () => {
     if (continuous && chapterIndex < library.chapters.length - 1) chooseChapter(chapterIndex + 1, true);
     else continuous = false;
@@ -176,7 +193,7 @@ async function initialize() {
   for (const item of library.videos) {
     const article = document.createElement('article');
     article.className = 'archive-video';
-    article.innerHTML = `<button type="button" aria-label="播放${esc(item.title)}"><img src="${esc(item.poster)}" alt="${esc(item.title)}视频预览帧" loading="lazy"><span class="mini-play" aria-hidden="true">▶</span></button><h3>${esc(item.title)}</h3><p>${esc(item.description)}</p><a href="${esc(item.original)}" download>下载原视频 ↓</a>`;
+    article.innerHTML = `<button type="button" aria-label="播放${esc(item.title)}"><img src="${esc(item.poster)}" alt="${esc(item.title)}视频预览帧" loading="lazy"><span class="mini-play" aria-hidden="true">▶</span></button><h3>${esc(item.title)}</h3><p>${esc(item.description)}</p><a href="${esc(item.original)}" download>下载视频 ↓</a>`;
     $('button', article).addEventListener('click', () => videoPreview(item));
     $('#video-archive').append(article);
   }

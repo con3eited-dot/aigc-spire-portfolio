@@ -32,6 +32,15 @@
   ],
   "videos": [
     {
+      "id": "film-v1",
+      "title": "AI协助初剪预览 · FFmpeg",
+      "description": "早期35秒衔接参考；主展示已更新为作者使用剪映调整的成片。",
+      "duration": 35,
+      "src": "media/previews/film-v1.mp4",
+      "original": "media/previews/film-v1.mp4",
+      "poster": "media/posters/chase-v2.jpg"
+    },
+    {
       "id": "opening",
       "title": "01 / 塔外苏醒",
       "description": "醒来，望向尖塔，黄色闪电球在身后出现。",
@@ -353,5 +362,16 @@
       "src": "media/characters/slime-sheet.jpg",
       "original": "media/characters/slime-sheet.jpg"
     }
-  ]
+  ],
+  "finalFilm": {
+    "id": "final-film",
+    "title": "尖塔逃亡",
+    "description": "从开箱夺宝到崖底反转，一支冰淇淋引发的尖塔逃亡。作者使用剪映完成剪辑与调整。",
+    "duration": 36.25,
+    "src": "media/previews/final-film.mp4",
+    "original": "media/previews/final-film.mp4",
+    "poster": "media/posters/final-film.jpg",
+    "source_name": "尖塔逃亡.mp4",
+    "editor": "作者使用剪映剪辑"
+  }
 }

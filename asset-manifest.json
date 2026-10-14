@@ -239,5 +239,15 @@
     "bytes": 20385890,
     "sha256": "c43bf10babe5da4815e4a19b62acec1777b8947403044711f64834a767191b65",
     "derived": true
+  },
+  {
+    "source_name": "尖塔逃亡.mp4",
+    "file": "media/previews/final-film.mp4",
+    "bytes": 13916747,
+    "sha256": "08baaf2eff9f0debfc9d10bddc478abfdfac413f0e1defeec6ea8fbf47e9b8c5",
+    "derived": true,
+    "source_bytes": 119294981,
+    "source_sha256": "759c16deed396e6cf6431ff4bfd21b8ad8fbce7bd50bc8ac55b763ef474616ec",
+    "source_retained_locally": true
   }
 ]
